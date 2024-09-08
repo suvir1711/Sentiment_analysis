@@ -1,0 +1,2 @@
+Download dataset from here = "https://ai.stanford.edu/~amaas/data/sentiment/"
+Also ensure all corpora are installed using nltk downloader
